@@ -1,2 +1,4 @@
 # fate
 it is the first trial in order to foresee my future. 
+
+I'm come back after so long, and i want to review the data structure what can help me grow up.
