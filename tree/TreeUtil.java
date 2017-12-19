@@ -21,4 +21,6 @@ public class TreeUtil {
 		 PostOrderTraverse(node.right);
 		 System.out.print("  " + node.data);
 	 }
+	 
+	 
 }

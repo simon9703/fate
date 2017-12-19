@@ -3,8 +3,6 @@ package practice;
 public class Solution2 {
 	/**
 	 * 将字符串中的' '替换成'%20'
-	 * @param str
-	 * @return
 	 */
     public static String replaceSpace(StringBuffer str) {
     	int spacenum = 0;

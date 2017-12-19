@@ -4,9 +4,6 @@ public class Solution1 {
 	/**
 	 * 给定数组：左->右增加，上->下增加，问是否包含xx
 	 * 从左下角开始遍历，向上递减，向右递增
-	 * @param array
-	 * @param key
-	 * @return
 	 */
     public static boolean solute(int[][] array, int key) {
     	int row = array.length - 1;
