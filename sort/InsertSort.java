@@ -3,7 +3,6 @@ package sort;
 public class InsertSort {
 	/**
 	 * 插入排序,时间复杂度O(n^2),空间复杂度O(1)
-	 * @param array
 	 */
 	public static void sort(int []array) {
 		int insertNum;

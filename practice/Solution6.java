@@ -21,7 +21,7 @@ public class Solution6 {
 			flag <<= 1;
 		}
 		return count;
-	}
+	} 
 	
 	public static int numberOf1III(int n) {
 		int count = 0;
